@@ -2,11 +2,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mayssa ben abdallah </h1>
+<h1 align="center">Hi 👋, I'm Oumaima Boudaoura </h1>
 
 <h3 align="center"> Developer from Tunisia</h3>
 <h3 align="center"><br>
-  <a href="https://github.com/mayssa-benabdallah" target="_blank">
+  <a href="https://github.com/omayma420" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mayssa-benabdallah?label=Github%20followers&style=for-the-badge">
   </a> <br>
   <a href="https://github.com/mayssa-benabdallah" target="_blank">
@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **SharePoint,ReactJS,Symfony,JS **
 
-- 📫 How to reach me **maissa.benabdallah@esprit.tn**
+- 📫 How to reach me **Boudaouaraomayma@gmail.com**
 
 
 
@@ -79,8 +79,8 @@
   
   
 ## Contact me 📫:
-- Whatsapp :  +216 53 428 171 
-- Linkedin : https://www.linkedin.com/in/mayssa-ben-abdallah-826407233/
+- Whatsapp :  +216 20 230 990 
+- Linkedin : https://www.linkedin.com/in/boudaouara-oumaima/
 
 
 
